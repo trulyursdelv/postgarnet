@@ -31,3 +31,7 @@ Postgarnet is available on [rubygems](https://rubygems.org/gems/postgarnet). To 
 ```
 gem install postgarnet
 ```
+
+## Documentation
+
+Read the full documentation [here](https://clover-stallion-989.notion.site/Postgarnet-1e114c1327fb804d94bcf1306b2d3758?pvs=73).
